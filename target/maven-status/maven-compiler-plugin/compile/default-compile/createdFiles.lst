@@ -1,0 +1,9 @@
+com/example/SneakyCaloriesV2/services/UsersServiceImpl.class
+com/example/SneakyCaloriesV2/core/AppDto.class
+com/example/SneakyCaloriesV2/services/UsersService.class
+com/example/SneakyCaloriesV2/session/SessionFactoryInitializer.class
+com/example/SneakyCaloriesV2/pojo/Users.class
+com/example/SneakyCaloriesV2/daos/UsersDao.class
+com/example/SneakyCaloriesV2/controllers/UserDataController.class
+com/example/SneakyCaloriesV2/SneakyCaloriesApplicationV2.class
+com/example/SneakyCaloriesV2/daos/UsersDaoImpl.class
